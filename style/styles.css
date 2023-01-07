@@ -3,7 +3,7 @@
     margin: 0;
 
     font-family: 'Open Sans', sans-serif;
-font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 
 }
 
@@ -246,7 +246,7 @@ footer {
     color: white;
     justify-content: center;
     padding-top: 130px;
-    gap:300px;
+    gap: 300px;
 
 
 
@@ -279,9 +279,9 @@ footer {
     font-weight: 400;
     font-size: 16px;
     margin-bottom: 24px;
-    
+
     width: 300px;
-    
+
 
 }
 
@@ -324,6 +324,6 @@ footer {
     padding-left: 25px;
     font-size: 18px;
     font-weight: 400;
-   
+
 
 }
